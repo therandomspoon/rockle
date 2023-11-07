@@ -1,0 +1,66 @@
+[
+    {
+        "RockName": "Granite",
+        "RockDetails": "Granite is a coarse-grained igneous rock."
+    },
+    {
+        "RockName": "Marble",
+        "RockDetails": "Marble is a metamorphic rock composed of."
+    },
+    {
+        "RockName": "Basalt",
+        "RockDetails": "Basalt is a fine-grained volcanic rock."
+    },
+    {
+        "RockName": "Slate",
+        "RockDetails": "Slate is a fine-grained metamorphic rock."
+    },
+    {
+        "RockName": "Sandstone",
+        "RockDetails": "Sandstone is a sedimentary rock composed of sand-sized grains."
+    },
+    {
+        "RockName": "Limestone",
+        "RockDetails": "Limestone is a sedimentary rock primarily composed of calcium carbonate."
+    },
+    {
+        "RockName": "Shale",
+        "RockDetails": "Shale is a fine-grained sedimentary rock formed from mud."
+    },
+    {
+        "RockName": "Gneiss",
+        "RockDetails": "Gneiss is a metamorphic rock characterized by banded appearance."
+    },
+    {
+        "RockName": "Quartzite",
+        "RockDetails": "Quartzite is a metamorphic rock primarily composed of quartz."
+    },
+    {
+        "RockName": "Schist",
+        "RockDetails": "Schist is a medium- to coarse-grained metamorphic rock."
+    },
+    {
+        "RockName": "Rhyolite",
+        "RockDetails": "Rhyolite is a volcanic rock with a high silica content."
+    },
+    {
+        "RockName": "Pumice",
+        "RockDetails": "Pumice is a light-colored, porous volcanic igneous rock."
+    },
+    {
+        "RockName": "Obsidian",
+        "RockDetails": "Obsidian is a natural volcanic igneous rock commonly associated with the game Minecraft"
+    },
+    {
+        "RockName": "Gabbro",
+        "RockDetails": "Gabbro is a dark, coarse-grained plutonic rock."
+    },
+    {
+        "RockName": "Serpentine",
+        "RockDetails": "Serpentine is a green, metamorphic rock."
+    },
+    {
+        "RockName": "Chalk",
+        "RockDetails": "Chalk is a soft, white, porous limestone rock."
+    }
+]

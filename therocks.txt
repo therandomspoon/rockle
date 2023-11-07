@@ -1,0 +1,16 @@
+Granite
+Marble
+Basalt
+Slate
+Sandstone
+Limestone
+Shale
+Gneiss
+Quartzite
+Schist
+Rhyolite
+Pumice
+Obsidian
+Gabbro
+Serpentine
+Chalk
